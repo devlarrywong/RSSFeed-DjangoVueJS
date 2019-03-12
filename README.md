@@ -14,6 +14,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # Folder Structure
+"""
 RSSFeed-DjangoVueJS
   ├── venv
   ├── requirements.txt
@@ -31,7 +32,7 @@ RSSFeed-DjangoVueJS
       └── static
          └── rss
             └── app.js 
-
+"""
 
 ## Test Apps
 python manage.py test rss
