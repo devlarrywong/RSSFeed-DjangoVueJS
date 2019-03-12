@@ -21,3 +21,14 @@ python manage.py runserver
 
 ## Open on Browser
 http://127.0.0.1:8000/rss/
+
+# Useful Documentation:
+
+virtualenv
+https://sourabhbajaj.com/mac-setup/Python/virtualenv.html
+
+Django REST Framework
+https://www.django-rest-framework.org/
+
+Vue JS
+https://vuejs.org/
